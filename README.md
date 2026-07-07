@@ -1,6 +1,6 @@
 # Tenable User Health Agent
 
-A Claude Code agent that generates user management and authentication security health reports from Tenable Vulnerability Management. It audits user activity, authentication patterns, API key usage, and compliance posture against multiple industry frameworks.
+A Claude Code agent that generates user management and authentication security health reports from the Tenable One platform. It audits user activity across the platform — including Vulnerability Management, Cloud Security, Identity Exposure, and other Tenable One modules — analyzing authentication patterns, API key usage, and compliance posture against multiple industry frameworks.
 
 ## What It Does
 
@@ -14,7 +14,7 @@ A Claude Code agent that generates user management and authentication security h
 ## Requirements
 
 - Claude Code with the Tenable MCP server connected
-- Access to Tenable Vulnerability Management audit logs
+- Access to Tenable One platform audit logs
 
 ## Usage
 
